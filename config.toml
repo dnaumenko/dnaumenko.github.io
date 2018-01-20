@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "uk"
+title = "Різні різнощі"
+
+theme = "hemingway2"
